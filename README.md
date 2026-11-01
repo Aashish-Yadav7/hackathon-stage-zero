@@ -1,6 +1,6 @@
 # hackathon-stage-zero
 
-# Hello, Hackathon!
+# Hello, Folks.
 AI-assisted Stage 0 web app.
 
 Team: Usual Suspects
